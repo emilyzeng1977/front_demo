@@ -1,0 +1,17 @@
+* {
+  font-family: Helvetica, Arial, sans-serif;
+}
+ 
+h2 {
+  color: SeaGreen;
+}
+ 
+p, 
+li {
+  font-size: 18px;
+  color: Blue;
+}
+
+a {
+  text-decoration: none;
+}
